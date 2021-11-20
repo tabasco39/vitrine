@@ -1,0 +1,14 @@
+/* menu */
+.menu-list ul {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+.menu-list ul li {
+    list-style: none;
+    text-transform: uppercase;
+    margin: 25px 10px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #666666;
+}
